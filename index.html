@@ -264,6 +264,11 @@ h1, h2, h3 { margin: 0; text-wrap: balance; }
 /* Chapô de l'article : un cran plus grand et en demi-gras (demande du 13 octobre) */
 .prose .lede { font-size: 1.18em; font-weight: 600; line-height: 1.6; }
 
+/* Fin d'article : boutons de partage plus légers, sur une ligne, aux couleurs du bouton « Lire l'article » */
+.share { flex-wrap: nowrap; gap: .6rem; }
+.share .btn { padding: .5rem .9rem; font-size: .92rem; white-space: nowrap; cursor: pointer; }
+.art-end { margin-top: 1rem; }
+
 /* Source en note sous l'article */
 .art-source { font-family: var(--sans); font-size: .85rem; line-height: 1.5; color: var(--muted); margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid var(--line); }
 
@@ -436,12 +441,11 @@ body { background: #FFFFFF; }
 <p>Alors voilà. Ce sera mon « …début d'autre chose » à moi.</p>
 <p>Puisque tout s'accélère, j'ai décidé de ralentir, au moins un peu, au moins ici. Puisque nos feeds se ressemblent tous, à parler d'économiser des tokens, j'ai envie d'y glisser autre chose. Une ou deux fois par mois, je viendrai publier sur ce site. Pas pour ajouter du bruit au bruit, mais pour partager ce qui m'a arrêté : une initiative inspirante, une attention touchante, une réflexion intelligente et naturelle. Le tout écrit par moi, avec mes longueurs – oui, je sais, je suis bavard –, mes doutes et mes enthousiasmes.</p>
 <p>Ce sera ma façon de ne pas oublier de créer et de partager. De rappeler que derrière chaque transformation, chaque nouvel outil, il y a d'abord des femmes et des hommes. Que c'est en prenant soin d'eux que le changement réussit. Et que ceux qu'on fait grandir nous font grandir à leur tour ! C'est ce que j'ai appris en vingt-cinq ans de management et de transformation, et c'est ce que je veux continuer à faire, et à croire.</p>
-<p>La fin de quelque chose, c'est le début d'autre chose.</p>
-<p>Et si cet autre chose, c'était simplement de reprendre le temps de se retrouver ?</p>
+<p>La fin de quelque chose, c'est le début d'autre chose. Et si cet autre chose, c'était simplement de reprendre le temps de se retrouver ?</p>
   </div>
   <p class="art-source">Source : <a href="https://www.fondationdefrance.org/images/pdf/2026/CP_Solitudes_2025.pdf" target="_blank" rel="noopener">Étude Solitudes 2025</a>, Fondation de France et Crédoc, publiée le 22 janvier 2026. Enquête menée en juillet 2025 auprès de plus de 3 000 personnes résidant en France.</p>
   <div class="art-end">
-    <div class="share"><span>Partager</span><a class="btn ghost" href="https://www.linkedin.com/">Sur LinkedIn</a><button class="btn ghost" type="button" data-copy>Copier le lien</button></div>
+    <div class="share"><span>Partager</span><a class="btn" href="https://www.linkedin.com/">Sur LinkedIn</a><button class="btn" type="button" data-copy>Copier le lien</button></div>
     <aside class="author" aria-label="L'auteur">
       <div class="photo sm has-photo" role="img" aria-label="Sébastien Bollengier"></div>
       <div>
