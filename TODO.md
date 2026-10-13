@@ -22,3 +22,4 @@ Ajouts validés le 13 octobre 2026 :
 - [ ] Date de publication de l'article : « Octobre 2026 » ou la date exacte
 - [ ] Lien vers l'appli dans la carte « Faire », quand elle sera en ligne
 - [ ] Au lancement : construire le vrai site, ouvrir la page aux moteurs de recherche, créer le flux RSS annoncé en pied de page
+- [ ] Statistiques de visite sans cookie (sans bandeau à faire accepter)
