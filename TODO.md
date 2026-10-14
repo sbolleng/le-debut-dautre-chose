@@ -1,25 +1,36 @@
 # À faire
 
-Liste de Sébastien (13 octobre 2026), à rappeler à sa demande.
+Liste de Sébastien, à rappeler à sa demande. Mise à jour du 14 octobre 2026.
 
-- [ ] Finaliser la section « Moi, autrement »
-- [ ] Finaliser la section « Qui écrit ? »
-- [ ] Finaliser la page article
-- [ ] Prévoir une page Formation
-- [ ] Prévoir une page UTMB
-- [ ] Changer la photo
-- [ ] Ajouter une pastille graphique à produire : « Réalisé avec l'IA · Rédigé par l'humain »
-- [ ] Prévoir le nom de domaine
-- [ ] Prévoir l'hébergement
-- [ ] Mettre en avant Babelio
+## Il me faut quelque chose de Sébastien
 
-Ajouts validés le 13 octobre 2026 :
-
-- [ ] Mentions légales (obligatoires), avec un e-mail de contact
-- [ ] Aperçu de partage : image et texte affichés quand le lien est publié sur LinkedIn
-- [ ] Bouton « Partager sur LinkedIn » : le relier à la vraie adresse de l'article
-- [ ] Icône d'onglet du navigateur
-- [ ] Date de publication de l'article : « Octobre 2026 » ou la date exacte
+- [ ] Changer la photo : envoyer la nouvelle
+- [ ] Nom de domaine : à choisir (idées et vérification de disponibilité possibles)
+- [ ] Hébergement : GitHub Pages (gratuit, accepte un nom de domaine personnel), à valider
 - [ ] Lien vers l'appli dans la carte « Faire », quand elle sera en ligne
+- [ ] Menu : renommer l'onglet « Autrement » en « Mode avion » ? (question ouverte)
+
+## À faire
+
+- [ ] Aperçu de partage : image, titre et phrase affichés quand le lien est collé sur LinkedIn, WhatsApp…
+- [ ] Icône d'onglet du navigateur (proposition : les trois points de « … », deux bleus et un orange)
+- [ ] Après chaque course : la passer côté « déjà courues » avec son temps (prochaine : Clam Trail, 18 octobre 2026)
+- [ ] Polices de caractères : les héberger sur le site plutôt que chez Google (vie privée des visiteurs)
+- [ ] Statistiques de visite sans cookie (sans bandeau à faire accepter), après le choix du domaine
+
+## Plus tard
+
+- [ ] Page Formation, à partir de trois ou quatre certifications
 - [ ] Au lancement : construire le vrai site, ouvrir la page aux moteurs de recherche, créer le flux RSS annoncé en pied de page
-- [ ] Statistiques de visite sans cookie (sans bandeau à faire accepter)
+
+## Fait
+
+- [x] « Moi, autrement » devenu « Mon mode avion » : Ma bibliothèque (Babelio), Ma ludothèque (Board Game Arena)
+- [x] « Qui écrit ? » : texte de présentation, talents relus, mention Gallup
+- [x] Page article : texte définitif, chapô, source, partage
+- [x] Page UTMB : « Objectif UTMB-OCC 2028 », courses passées et à venir
+- [x] Pastille « Créé avec l'IA, rédigé par l'humain » (accueil et article), gardée telle quelle
+- [x] Babelio mis en avant : logo dans le menu, carte « Ma bibliothèque »
+- [x] Bouton « Partager sur LinkedIn » relié à l'article
+- [x] Date de publication de l'article : 12 octobre 2026
+- [x] Mentions légales, avec l'e-mail de contact
