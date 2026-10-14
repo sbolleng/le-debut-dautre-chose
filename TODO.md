@@ -4,16 +4,12 @@ Liste de Sébastien, à rappeler à sa demande. Mise à jour du 14 octobre 2026.
 
 ## Il me faut quelque chose de Sébastien
 
-- [ ] Changer la photo : envoyer la nouvelle
 - [ ] Nom de domaine : à choisir (idées et vérification de disponibilité possibles)
 - [ ] Hébergement : GitHub Pages (gratuit, accepte un nom de domaine personnel), à valider
 - [ ] Lien vers l'appli dans la carte « Faire », quand elle sera en ligne
-- [ ] Menu : renommer l'onglet « Autrement » en « Mode avion » ? (question ouverte)
 
 ## À faire
 
-- [ ] Aperçu de partage : image, titre et phrase affichés quand le lien est collé sur LinkedIn, WhatsApp…
-- [ ] Icône d'onglet du navigateur (proposition : les trois points de « … », deux bleus et un orange)
 - [ ] Après chaque course : la passer côté « déjà courues » avec son temps (prochaine : Clam Trail, 18 octobre 2026)
 - [ ] Polices de caractères : les héberger sur le site plutôt que chez Google (vie privée des visiteurs)
 - [ ] Statistiques de visite sans cookie (sans bandeau à faire accepter), après le choix du domaine
@@ -34,3 +30,7 @@ Liste de Sébastien, à rappeler à sa demande. Mise à jour du 14 octobre 2026.
 - [x] Bouton « Partager sur LinkedIn » relié à l'article
 - [x] Date de publication de l'article : 12 octobre 2026
 - [x] Mentions légales, avec l'e-mail de contact
+- [x] Nouvelle photo, partout sur le site et dans l'aperçu de partage
+- [x] Menu : « Mode avion » et « Qui écrit ? », sur une seule ligne sur téléphone
+- [x] Aperçu de partage (LinkedIn, WhatsApp…) : image, titre et première phrase de l'article
+- [x] Icône d'onglet : les trois points de « … », deux bleus et un orange
