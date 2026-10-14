@@ -354,6 +354,13 @@ body { background: #FFFFFF; }
 .route li:not(.final)::after { content: ""; position: absolute; left: calc(-1.4rem - 2px); top: 1.2rem; bottom: .2rem; border-left: 4px dotted var(--pop); }
 .route li { position: relative; padding: 0 0 2rem; }
 .route li::before { content: ""; position: absolute; left: -1.85rem; top: .3rem; width: .9rem; height: .9rem; border-radius: 50%; background: var(--pop); box-shadow: 0 0 0 5px var(--bg); }
+.route li.past::before { content: "✓"; background: var(--accent); color: #FFFFFF; font: 700 .62rem/.9rem var(--sans); text-align: center; }
+.route li.past::after { border-left-style: solid; border-left-color: var(--accent); }
+.route .r-res { margin: .35rem 0 0; font: 700 .95rem/1.4 var(--sans); color: var(--accent); }
+.route li.today { padding-bottom: 1.6rem; }
+.route li.today::before { display: none; }
+.route li.today::after { top: -.2rem; }
+.route .r-today { display: inline-block; margin: 0; font: 700 .72rem/1 var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--pop-ink); background: var(--band2); padding: .35rem .65rem; border-radius: 999px; }
 .route li.final::before { width: 1.3rem; height: 1.3rem; left: -2.05rem; top: .15rem; background: var(--accent); }
 .route .r-date { font: 700 .8rem/1.3 var(--sans); letter-spacing: .06em; text-transform: uppercase; color: var(--accent); margin: 0; }
 .route h3 a { color: inherit; text-decoration-color: var(--line-2, var(--line)); text-underline-offset: .15em; }
@@ -534,6 +541,9 @@ body { background: #FFFFFF; }
   </div>
   <h2>Objectif UTMB-OCC</h2>
   <ol class="route">
+<li class="past"><p class="r-date">23 novembre 2025</p><h3><a href="https://www.finishers.com/course/clam-trail" target="_blank" rel="noopener">Le Clam Trail</a></h3><p class="r-sub">CSM Clamart</p><p class="r-num">10 km · 128 m D+ · Clamart (92)</p><p class="r-res">Temps : 58:47 · 58:31 au temps puce</p></li>
+<li class="past"><p class="r-date">8 mars 2026</p><h3><a href="https://www.finishers.com/course/forez-trails" target="_blank" rel="noopener">L'Olmetoise</a></h3><p class="r-sub">Forez Trails</p><p class="r-num">24,4 km · 933 m D+ · Augerolles (63)</p><p class="r-res">Temps : 3:01:16 · 100e au général · 8e sur 10 en Masters 2 Homme</p></li>
+<li class="today"><p class="r-today">Aujourd'hui</p></li>
 <li class=""><p class="r-date">18 octobre 2026</p><h3><a href="https://www.finishers.com/course/clam-trail" target="_blank" rel="noopener">Le Clam Trail</a></h3><p class="r-sub">CSM Clamart</p><p class="r-num">10 km · 128 m D+ · Clamart (92)</p></li>
 <li class=""><p class="r-date">5 décembre 2026</p><h3><a href="https://www.hivernaledestempliers.com/rockangel/" target="_blank" rel="noopener">Le Rock'Angel</a></h3><p class="r-sub">L'Hivernale des Templiers</p><p class="r-num">18,3 km · ~750 m D+ · Roquefort-sur-Soulzon (12)</p></li>
 <li class=""><p class="r-date">17 janvier 2027</p><h3><a href="https://traildes2baies.fr/" target="_blank" rel="noopener">Le D2B</a></h3><p class="r-sub">Trail des 2 Baies</p><p class="r-num">23,5 km · 300 m D+ · Le Touquet-Paris-Plage (62)</p></li>
