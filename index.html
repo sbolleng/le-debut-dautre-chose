@@ -352,6 +352,8 @@ body { background: #FFFFFF; }
 .route li::before { content: ""; position: absolute; left: -1.85rem; top: .3rem; width: .9rem; height: .9rem; border-radius: 50%; background: var(--pop); box-shadow: 0 0 0 5px var(--bg); }
 .route li.final::before { width: 1.3rem; height: 1.3rem; left: -2.05rem; top: .15rem; background: var(--accent); }
 .route .r-date { font: 700 .8rem/1.3 var(--sans); letter-spacing: .06em; text-transform: uppercase; color: var(--accent); margin: 0; }
+.route h3 a { color: inherit; text-decoration-color: var(--line-2, var(--line)); text-underline-offset: .15em; }
+.route h3 a:hover { text-decoration-color: var(--pop); }
 .route h3 { font-family: var(--title); font-weight: var(--title-w); font-size: 1.6rem; line-height: 1.15; margin: .2rem 0 .1rem; }
 .route .r-sub { color: var(--muted); font-size: .95rem; margin: 0; }
 .route .r-num { font: 600 .92rem/1.4 var(--sans); margin: .35rem 0 .35rem; }
@@ -403,7 +405,7 @@ body { background: #FFFFFF; }
   <section class="sec band2 trail now-cartes" id="en-ce-moment"><div class="wrap">
     <div class="sec-h"><h2>En ce moment</h2></div>
     <ul class="now now3">
-      <li><p class="kicker">Faire</p><h3>La boîte à outils du coureur</h3><p>Préparer une course, c'est jongler avec tellement d'outils ! Alors je conçois avec l'IA une appli qui réunit tout, de l'objectif au jour J. Je teste, je me trompe, j'apprends… L'important, c'est de pratiquer pour comprendre, et pouvoir en parler. Bref, joindre l'utile à l'agréable ! <a href="boite-a-outils-du-coureur.pdf" target="_blank" rel="noopener">Découvrez-la ici →<span class="sr"> (présentation en PDF, dans un nouvel onglet)</span></a></p></li>
+      <li><p class="kicker">Faire</p><h3>La boîte à outils du coureur</h3><p>Préparer une course, c'est jongler avec tellement d'outils ! Alors je conçois avec l'IA une appli qui réunit tout, de l'objectif au jour J. Je teste, je me trompe, j'apprends… L'important, c'est de pratiquer pour comprendre, et pouvoir en parler. Bref, joindre l'utile à l'agréable ! <a href="boite-a-outils-du-coureur.pdf#page=1" target="_blank" rel="noopener">Découvrez-la ici →<span class="sr"> (présentation en PDF, dans un nouvel onglet)</span></a></p></li>
       <li><p class="kicker">Viser</p><h3>Objectif UTMB-OCC 2028</h3><p>Se fixer un objectif, c'est avoir envie de l'atteindre ; et le chemin compte tout autant ! En trail, c'est pareil : sans l'OCC en ligne de mire, je ne courrais pas toutes ces courses d'avant qui me font progresser et me transforment déjà. Rendez-vous à Chamonix en août 2028 ? <a href="#objectif-occ">Suivre la route vers Chamonix →</a></p></li>
       <li><p class="kicker">Apprendre</p><h3>Rester curieux</h3><p>Accompagner le changement sans jamais changer soi-même, ce serait un peu arrogant. Alors je continue, moi aussi, d'apprendre, de me former, de me remettre en question. Et c'est réjouissant ! Prochaine étape : la certification <a href="https://learn.microsoft.com/fr-fr/credentials/certifications/ai-transformation-leader/" target="_blank" rel="noopener">Microsoft AI Transformation Leader</a>. Je vous dirai si c'est gagné !</p></li>
     </ul>
@@ -520,7 +522,6 @@ body { background: #FFFFFF; }
 <article class="art occ">
   <nav class="crumbs" aria-label="Fil d'Ariane"><a href="#accueil">Accueil</a><span aria-hidden="true">›</span><a href="#en-ce-moment">En ce moment</a><span aria-hidden="true">›</span><span aria-current="page">Objectif UTMB-OCC 2028</span></nav>
   <h1 class="art-t">Objectif UTMB-OCC 2028</h1>
-  <p class="lead">Chamonix, fin août 2028 · 55 à 57 km · 3 400 à 3 500 m D+</p>
   <div class="prose">
 <p class="lede">Se fixer un objectif, c'est bien entendu avoir envie de l'atteindre ! Mais c'est aussi tout le chemin pour y arriver qui nous transforme.</p>
 <p>L'OCC, c'est 55 kilomètres et près de 3 500 mètres de dénivelé. Pour un coureur d'Île-de-France, c'est haut… Sans cet objectif, je ne courrais pas toutes ces courses d'avant. Et chacune m'apprend quelque chose, me fait progresser : gérer une descente, tenir la distance, écouter mon corps, accepter de marcher…</p>
@@ -529,15 +530,15 @@ body { background: #FFFFFF; }
   </div>
   <h2>Objectif UTMB-OCC</h2>
   <ol class="route">
-<li class=""><p class="r-date">18 octobre 2026</p><h3>Le Clam Trail</h3><p class="r-sub">CSM Clamart</p><p class="r-num">10 km · 128 m D+ · Clamart (92)</p></li>
-<li class=""><p class="r-date">5 décembre 2026</p><h3>Le Rock'Angel</h3><p class="r-sub">L'Hivernale des Templiers</p><p class="r-num">18,3 km · ~750 m D+ · Roquefort-sur-Soulzon (12)</p></li>
-<li class=""><p class="r-date">17 janvier 2027</p><h3>Le D2B</h3><p class="r-sub">Trail des 2 Baies</p><p class="r-num">23,5 km · 300 m D+ · Le Touquet-Paris-Plage (62)</p></li>
-<li class=""><p class="r-date">Mars 2027</p><h3>L'Augerolloise</h3><p class="r-sub">Forez Trails</p><p class="r-num">33 km · 1 100 m D+ · Augerolles (63)</p></li>
+<li class=""><p class="r-date">18 octobre 2026</p><h3><a href="https://www.finishers.com/course/clam-trail" target="_blank" rel="noopener">Le Clam Trail</a></h3><p class="r-sub">CSM Clamart</p><p class="r-num">10 km · 128 m D+ · Clamart (92)</p></li>
+<li class=""><p class="r-date">5 décembre 2026</p><h3><a href="https://www.hivernaledestempliers.com/rockangel/" target="_blank" rel="noopener">Le Rock'Angel</a></h3><p class="r-sub">L'Hivernale des Templiers</p><p class="r-num">18,3 km · ~750 m D+ · Roquefort-sur-Soulzon (12)</p></li>
+<li class=""><p class="r-date">17 janvier 2027</p><h3><a href="https://traildes2baies.fr/" target="_blank" rel="noopener">Le D2B</a></h3><p class="r-sub">Trail des 2 Baies</p><p class="r-num">23,5 km · 300 m D+ · Le Touquet-Paris-Plage (62)</p></li>
+<li class=""><p class="r-date">Mars 2027</p><h3><a href="https://www.finishers.com/course/forez-trails" target="_blank" rel="noopener">L'Augerolloise</a></h3><p class="r-sub">Forez Trails</p><p class="r-num">33 km · 1 100 m D+ · Augerolles (63)</p></li>
 <li class=""><p class="r-date">Mai à juillet 2027</p><h3>Course à définir</h3><p class="r-num">32 à 42 km · 1 200 à 2 200 m D+</p></li>
-<li class=""><p class="r-date">Septembre 2027</p><h3>Le Gergo Trail</h3><p class="r-sub">Grands Trails Esprit Volcans</p><p class="r-num">22 km · 900 m D+ · Clermont-Ferrand (63)</p></li>
+<li class=""><p class="r-date">Septembre 2027</p><h3><a href="https://www.finishers.com/course/grand-trail-esprit-volcans" target="_blank" rel="noopener">Le Gergo Trail</a></h3><p class="r-sub">Grands Trails Esprit Volcans</p><p class="r-num">22 km · 900 m D+ · Clermont-Ferrand (63)</p></li>
 <li class=""><p class="r-date">Fin 2027 · début 2028</p><h3>Course à définir</h3><p class="r-num">~45 à 55 km · 2 500 à 3 500 m D+</p></li>
 <li class=""><p class="r-date">Printemps 2028</p><h3>Course à définir</h3><p class="r-num">~45 à 55 km · 2 500 à 3 500 m D+</p></li>
-<li class="final"><p class="r-date">Fin août 2028</p><h3>L'OCC</h3><p class="r-sub">UTMB World Series Finals · 50K</p><p class="r-num">55 à 57 km · 3 400 à 3 500 m D+ · Orsières → Champex → Chamonix</p></li>
+<li class="final"><p class="r-date">Fin août 2028</p><h3><a href="https://montblanc.utmb.world/races/OCC" target="_blank" rel="noopener">L'OCC</a></h3><p class="r-sub">UTMB World Series Finals · 50K</p><p class="r-num">55 à 57 km · 3 400 à 3 500 m D+ · Orsières → Champex → Chamonix</p></li>
   </ol>
   <p><a class="back" href="#accueil">← Retour à l'accueil</a></p>
 </article>
