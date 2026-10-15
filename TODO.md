@@ -1,12 +1,13 @@
 # À faire
 
-Liste de Sébastien, à rappeler à sa demande. Mise à jour du 14 octobre 2026.
+Liste de Sébastien, à rappeler à sa demande. Mise à jour du 15 octobre 2026.
 
 ## Il me faut quelque chose de Sébastien
 
 - [ ] Nom de domaine : à choisir (idées et vérification de disponibilité possibles)
 - [ ] Hébergement : GitHub Pages (gratuit, accepte un nom de domaine personnel), à valider
 - [ ] Lien vers l'appli dans la carte « Faire », quand elle sera en ligne
+- [ ] Carte « Viser » : choisir la nouvelle accroche, plus courte (propositions du 15 octobre)
 
 ## À faire
 
@@ -17,7 +18,7 @@ Liste de Sébastien, à rappeler à sa demande. Mise à jour du 14 octobre 2026.
 ## Plus tard
 
 - [ ] Page Formation, à partir de trois ou quatre certifications
-- [ ] Au lancement : construire le vrai site, ouvrir la page aux moteurs de recherche, créer le flux RSS annoncé en pied de page
+- [ ] Au lancement : construire le vrai site, ouvrir la page aux moteurs de recherche, créer un flux RSS et le signaler en pied de page
 
 ## Fait
 
@@ -34,3 +35,4 @@ Liste de Sébastien, à rappeler à sa demande. Mise à jour du 14 octobre 2026.
 - [x] Menu : « Mode avion » et « Qui écrit ? », sur une seule ligne sur téléphone
 - [x] Aperçu de partage (LinkedIn, WhatsApp…) : image, titre et première phrase de l'article
 - [x] Icône d'onglet : les trois points de « … », deux bleus et un orange
+- [x] Tour de cohérence (15 octobre) : pied de page, menu, coupures sur téléphone, titres d'onglet, textes harmonisés, photo définitive
