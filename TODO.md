@@ -1,6 +1,6 @@
 # À faire
 
-Liste de Sébastien, à rappeler à sa demande. Mise à jour du 20 octobre 2026.
+Liste de Sébastien, à rappeler à sa demande. Mise à jour du 19 octobre 2026.
 
 ## Il me faut quelque chose de Sébastien
 
@@ -10,7 +10,7 @@ Liste de Sébastien, à rappeler à sa demande. Mise à jour du 20 octobre 2026.
 
 ## À faire
 
-- [ ] Après chaque course : la passer côté « déjà courues » avec son temps (prochaine : Clam Trail, 18 octobre 2026)
+- [ ] Après chaque course : la passer côté « déjà courues » avec son temps (prochaine : Rock'Angel, 5 décembre 2026)
 - [ ] Polices de caractères : les héberger sur le site plutôt que chez Google (vie privée des visiteurs)
 - [ ] Statistiques de visite sans cookie (sans bandeau à faire accepter), après le choix du domaine
 
@@ -37,3 +37,4 @@ Liste de Sébastien, à rappeler à sa demande. Mise à jour du 20 octobre 2026.
 - [x] Tour de cohérence (15 octobre) : pied de page, menu, coupures sur téléphone, titres d'onglet, textes harmonisés, photo définitive
 - [x] Carte « Viser » : nouvelle accroche « De Clamart au Mont-Blanc… »
 - [x] Maquettes d'exploration du site rapatriées dans le dossier archives
+- [x] Clam Trail du 18 octobre 2026 passé côté « déjà courues » (49:48)
