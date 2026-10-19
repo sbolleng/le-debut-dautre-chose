@@ -7,3 +7,4 @@ Page : https://sbolleng.github.io/le-debut-dautre-chose/
 
 La page n'est pas proposée aux moteurs de recherche (balise `noindex`).
 La liste des choses à faire est dans [TODO.md](TODO.md).
+Les maquettes d'exploration des 11 au 13 octobre sont conservées dans [archives](archives/README.md).
