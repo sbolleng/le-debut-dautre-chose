@@ -5,6 +5,7 @@ Elles viennent de la branche `claude/cool-clarke-0ih99o` du dépôt `plan-entrai
 Les textes personnels y sont remplacés par des emplacements. Les pages ne sont pas proposées aux moteurs de recherche.
 
 - [`maquettes-structures/`](maquettes-structures/index.html) : quatre propositions de structure, cliquables.
+- [`copie-publique/`](copie-publique/index.html) : la page retenue du 16 octobre, avec des emplacements à la place des textes personnels (c'était la copie publique de la branche).
 
 ## Historique de la branche (site-perso)
 
